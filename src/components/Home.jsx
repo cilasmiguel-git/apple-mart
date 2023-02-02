@@ -12,7 +12,7 @@ const Home = () => {
         </div>
         <div className="carousel-inner">
           <div className="carousel-item active">
-            <img src="/assets/images/home/img1.jpg" className="d-block w-100" alt="Iphone" height="530px"/>
+            <img src="/assets/images/home/Img1.jpg" className="d-block w-100" alt="Iphone" height="530px"/>
           </div>
           <div className="carousel-item">
             <img src="/assets/images/home/img2.jpg" className="d-block w-100" alt="Iphone" height="530px"/>
