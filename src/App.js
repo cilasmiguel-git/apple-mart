@@ -9,7 +9,6 @@ import { Route, Routes } from 'react-router-dom';
 import ProductDetail from './components/ProductDetail';
 import Cart from './components/Cart';
 import Checkout from './components/Checkout';
-import { render } from '@testing-library/react';
 
 function App() {
   return (
