@@ -19,7 +19,7 @@ const Footer = () => {
         <div className="footer-left">
 
           <p className="footer-links">
-           <NavLink className="nav-link" aria-current="page" to="/"><a className="link-1">Home</a></NavLink>
+           <NavLink className="nav-link" aria-current="page" to="/apple-mart"><a className="link-1">Home</a></NavLink>
 
             <NavLink className="nav-link" to="/products"><a>Product</a></NavLink>
 

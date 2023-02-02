@@ -13,19 +13,19 @@ import Checkout from './components/Checkout';
 function App() {
   return (
     <>
-      <Header/>
+      <Header />
       <Routes>
-        <Route exact path='/' element={<Home />}></Route>
-        <Route path='/products' element={<Product />}></Route>
-        <Route path='/products/:id' element={<ProductDetail />}></Route>
-        <Route path='/cart' element={<Cart />}></Route>
-        <Route path='/checkout' element={<Checkout />}></Route>
-        <Route path='/about' element={<About />}></Route>
-        <Route path='/contact' element={<Contact />}></Route>
+        <Route exact path='/apple-mart' element={<Home />}></Route>
+        <Route exact path='/products' element={<Product />}></Route>
+        <Route exact path='/products/:id' element={<ProductDetail />}></Route>
+        <Route exact path='/cart' element={<Cart />}></Route>
+        <Route exact path='/checkout' element={<Checkout />}></Route>
+        <Route exact path='/about' element={<About />}></Route>
+        <Route exact path='/contact' element={<Contact />}></Route>
       </Routes>
-      <Footer/>
-      </>
-    
+      <Footer />
+    </>
+
   );
 }
 

@@ -15,7 +15,7 @@ const Header = () => {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <NavLink className="nav-link" aria-current="page" to="/">Home</NavLink>
+                <NavLink className="nav-link" aria-current="page" to="/apple-mart">Home</NavLink>
               </li>
               <li className="nav-item">
                 <NavLink className="nav-link" to="/products">Product</NavLink>
@@ -27,7 +27,7 @@ const Header = () => {
                 <NavLink className="nav-link" to="/contact">Contact</NavLink>
               </li>
             </ul>
-            <NavLink className="navbar-brand mx-auto fw-bold " to="/">APPLE MART</NavLink>
+            <NavLink className="navbar-brand mx-auto fw-bold " to="/apple-mart">APPLE MART</NavLink>
             <Login />
             <Signup />
             <CartBtn />
