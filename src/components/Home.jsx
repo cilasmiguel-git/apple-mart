@@ -1,7 +1,12 @@
 import React from 'react'
 import Product from './Product'
+import img1 from '../assets/images/home/img1.jpg'
+import img2 from '../assets/images/home/img2.jpg'
+import img3 from '../assets/images/home/img3.png'
+import img4 from '../assets/images/home/img4.png'
 
 const Home = () => {
+  const imgproducts = [{img1:img1},{img2:img2},{img3:img3},{img4:img4}]
   return (
     <div>
       <div id="carouselExampleIndicators" className="carousel slide">
@@ -13,18 +18,18 @@ const Home = () => {
         </div>
         <div className="carousel-inner">
           <div className="carousel-item active">
-            <img src="../assets/images/home/img1.jpg" className="d-block w-100" alt="Iphone" height="530px"/>
+            <img src={imgproducts[0].img1} className="d-block w-100" alt="Iphone" height="530px"/>
           </div>
           <div className="carousel-item">
-            <img src="../assets/images/home/img2.jpg" className="d-block w-100" alt="Iphone" height="530px"/>
+            <img src={imgproducts[1].img2} className="d-block w-100" alt="Iphone" height="530px"/>
           </div>
           <div className="carousel-item">
-            <img src="../assets/images/home/img3.jpg" className="d-block w-100" alt="Iphone" height="530px"/>
+            <img src={imgproducts[2].img3} className="d-block w-100" alt="Iphone" height="530px"/>
           </div>
           <div className="carousel-item">
-            <img src="../assets/images/home/img4.jpg" className="d-block w-100" alt="Iphone" height="530px"/>
+            <img src={imgproducts[3].img4} className="d-block w-100" alt="Iphone" height="530px"/>
           </div>
-        </div>
+        </div>  
         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
           <span className="carousel-control-prev-icon" aria-hidden="true"></span>
           <span className="visually-hidden">Previous</span>
