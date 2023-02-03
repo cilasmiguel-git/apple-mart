@@ -1,6 +1,9 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
+import image from "../assets/images/about.png"
+
 const About = () => {
+  const imgabout = [{img:image}]
   return (
     <div className="container py-5 my-5">
       <div className="row">
@@ -18,7 +21,7 @@ const About = () => {
           <NavLink to="/contact" className="btn btn-outline-primary px-3">Contact Us</NavLink>
         </div>
         <div className="col-md-6 d-flex justify-content-center">
-          <img src="/assets/images/about.png" alt="About Us" height="500px" width='550px' />
+          <img src={imgabout[0].img} alt="About Us" height="500px" width='550px' />
         </div>
       </div>
     </div>

@@ -1,6 +1,8 @@
 import React from 'react'
+import image from "../assets/images/contact.png"
 
 const Contact = () => {
+  const imgcontact =[{img:image}]
   return (
     <div>
       <div className="container mb-5">
@@ -11,7 +13,7 @@ const Contact = () => {
           </div>
           <div className="row">
             <div className="col-md 5 d-flex justify-content-center">
-              <img src="/assets/images/contact.png" alt="Contact Us" height="300px" width="450px" />
+              <img src={imgcontact[0].img} alt="Contact Us" height="300px" width="450px" />
             </div>
             <div className='col-md-6'>
               <form action="">
