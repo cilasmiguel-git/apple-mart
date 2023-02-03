@@ -1,20 +1,25 @@
 {
   "files": {
     "main.css": "/apple-mart/static/css/main.e03ed0ea.css",
-    "main.js": "/apple-mart/static/js/main.52c5df5a.js",
+    "main.js": "/apple-mart/static/js/main.2ac9edd1.js",
     "static/js/787.9b31a98a.chunk.js": "/apple-mart/static/js/787.9b31a98a.chunk.js",
+    "static/media/iphone11_pro_max.png": "/apple-mart/static/media/iphone11_pro_max.169b82c9851266347619.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/apple-mart/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/apple-mart/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/apple-mart/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/iphone12.png": "/apple-mart/static/media/iphone12.df1b8973821aee04a3e1.png",
+    "static/media/iphone12_mini.png": "/apple-mart/static/media/iphone12_mini.8731706deb509975b23a.png",
+    "static/media/iphone11.png": "/apple-mart/static/media/iphone11.196532b5c80e7aeff03c.png",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/apple-mart/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/apple-mart/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/iphone12_proo.png": "/apple-mart/static/media/iphone12_proo.4f8af7d96e13f20b0f0b.png",
     "index.html": "/apple-mart/index.html",
     "main.e03ed0ea.css.map": "/apple-mart/static/css/main.e03ed0ea.css.map",
-    "main.52c5df5a.js.map": "/apple-mart/static/js/main.52c5df5a.js.map",
+    "main.2ac9edd1.js.map": "/apple-mart/static/js/main.2ac9edd1.js.map",
     "787.9b31a98a.chunk.js.map": "/apple-mart/static/js/787.9b31a98a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e03ed0ea.css",
-    "static/js/main.52c5df5a.js"
+    "static/js/main.2ac9edd1.js"
   ]
 }
