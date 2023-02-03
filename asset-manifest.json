@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/apple-mart/static/css/main.e03ed0ea.css",
-    "main.js": "/apple-mart/static/js/main.92a7c5f7.js",
+    "main.js": "/apple-mart/static/js/main.d3f5cf05.js",
     "static/js/787.9b31a98a.chunk.js": "/apple-mart/static/js/787.9b31a98a.chunk.js",
     "static/media/img2.jpg": "/apple-mart/static/media/img2.c025fd798f978ee974ca.jpg",
+    "static/media/about.png": "/apple-mart/static/media/about.84949ea5dbf787761fe6.png",
     "static/media/iphone11_pro_max.png": "/apple-mart/static/media/iphone11_pro_max.169b82c9851266347619.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/apple-mart/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/apple-mart/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -15,15 +16,16 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/apple-mart/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/img4.png": "/apple-mart/static/media/img4.61a91ccdcc37d58575c0.png",
     "static/media/img3.png": "/apple-mart/static/media/img3.466eacfd84ee6d4f7cdb.png",
+    "static/media/contact.png": "/apple-mart/static/media/contact.8ca857475719eb1363e5.png",
     "static/media/img1.jpg": "/apple-mart/static/media/img1.29fe09f16d432d1935ba.jpg",
     "static/media/iphone12_proo.png": "/apple-mart/static/media/iphone12_proo.4f8af7d96e13f20b0f0b.png",
     "index.html": "/apple-mart/index.html",
     "main.e03ed0ea.css.map": "/apple-mart/static/css/main.e03ed0ea.css.map",
-    "main.92a7c5f7.js.map": "/apple-mart/static/js/main.92a7c5f7.js.map",
+    "main.d3f5cf05.js.map": "/apple-mart/static/js/main.d3f5cf05.js.map",
     "787.9b31a98a.chunk.js.map": "/apple-mart/static/js/787.9b31a98a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e03ed0ea.css",
-    "static/js/main.92a7c5f7.js"
+    "static/js/main.d3f5cf05.js"
   ]
 }
